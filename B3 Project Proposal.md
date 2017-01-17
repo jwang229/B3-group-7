@@ -46,19 +46,23 @@ Concurrently with the first part of this study that focuses on the onset and chi
 5. Basic laboratory setup and gear: 
   * Estimated cost of $20,000 per year over a 10 year period = 0.2 million USD 
   * Multiuser license to laboratory information system = 0.2 million USD 
-  * Compensation for voluntary research subjects: 
+ 
+6. Compensation for voluntary research subjects: 
   * Cost estimate of $200 per volunteer subject (for healthy children experimental group) = 0.1 million USD 
 
-TOTAL COST: 
-20.1 + 2.0 + 6.4 + 35.5 + 0.4 + 0.1 = **64.5 million USD** 
+Sources of Cost | Amount (in millions USD) 
+--------------------- | ---------------------------------- 
+MRI Scans | 20.1 
+EM Scans | 2.0 
+Data Storage/Download | 6.4 
+Research Team | 35.5 
+Lab Setup | 0.4 
+Volunteer Subjects | 0.1 
+Total | **64.5** 
 
 **Citations** 
-Structural formation of depression 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3100220/ 
-Open connectome project
-http://www.openconnectomeproject.org/
-Random Forest
-https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm
-Moreland, S. C., & Bonin, L. (2015, October 13). Patient education: Depression treatment options for children and adolescents (Beyond the Basics). Retrieved January 17, 2017. https://www.uptodate.com/contents/depression-treatment-options-for-children-and-adolescents-beyond-the-basics
-NITRC-R: LDDMM 
-https://www.nitrc.org/projects/lddmm-volume/
+1. N., Niida, A., & Motomura, M. (2011). Diagnosis of depression by MRI scans with the use of VSRAD – a promising auxiliary means of diagnosis: a report of 10 years research. International Journal of General Medicine, 377. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3100220/ 
+2. Open Connectome Project. (n.d.). Retrieved January 17, 2017, from http://www.openconnectomeproject.org/
+3. Random Forests Leo Breiman and Adele Cutler. (n.d.). Retrieved January 17, 2017, from https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm
+4. Moreland, S. C., & Bonin, L. (2015, October 13). Patient education: Depression treatment options for children and adolescents (Beyond the Basics). Retrieved January 17, 2017, from https://www.uptodate.com/contents/depression-treatment-options-for-children-and-adolescents-beyond-the-basics
+5. NITRC-R: LDDMM (n.d.). Retrieved January 17, 2017, from https://www.nitrc.org/projects/lddmm-volume/
