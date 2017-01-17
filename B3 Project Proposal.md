@@ -61,11 +61,11 @@ Volunteer Subjects | 0.1
 Total | **64.5** 
 
 
-## Citations 
+## References 
 
-1. N., Niida, A., & Motomura, M. (2011). Diagnosis of depression by MRI scans with the use of VSRAD – a promising auxiliary means of diagnosis: a report of 10 years research. International Journal of General Medicine, 377. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3100220/ 
+[1] N., Niida, A., & Motomura, M. (2011). Diagnosis of depression by MRI scans with the use of VSRAD – a promising auxiliary means of diagnosis: a report of 10 years research. International Journal of General Medicine, 377. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3100220/ 
 
-2. Open Connectome Project. (n.d.). Retrieved January 17, 2017, from http://www.openconnectomeproject.org/
+[2] Open Connectome Project. (n.d.). Retrieved January 17, 2017, from http://www.openconnectomeproject.org/
 
 3. Random Forests Leo Breiman and Adele Cutler. (n.d.). Retrieved January 17, 2017, from https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm
 
