@@ -34,7 +34,7 @@ Concurrently with the first part of this study that focuses on the onset and chi
   
 3. Data storage/upload/download via cloud: 
   * Estimated 14MB of data per MRI scan and 500TB of data for EM scan images 
-  * 20,050 MRI scans will require 280.7 GB of data storage space 
+  * 20,100 MRI scans will require 280.7 GB of data storage space 
   * Most data analysis and processing will be done using open source toolkits and softwares (e.g. ImageNet, MATLAB) 
   * Google Cloud: 0.026 (storage) + free upload + 0.08 (download) per month per GB = 6.4 million USD 
   
