@@ -67,8 +67,8 @@ Total | **64.5**
 
 [2] Open Connectome Project. (n.d.). Retrieved January 17, 2017, from http://www.openconnectomeproject.org/
 
-3. Random Forests Leo Breiman and Adele Cutler. (n.d.). Retrieved January 17, 2017, from https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm
+[3] Random Forests Leo Breiman and Adele Cutler. (n.d.). Retrieved January 17, 2017, from https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm
 
-4. Moreland, S. C., & Bonin, L. (2015, October 13). Patient education: Depression treatment options for children and adolescents (Beyond the Basics). Retrieved January 17, 2017, from https://www.uptodate.com/contents/depression-treatment-options-for-children-and-adolescents-beyond-the-basics
+[4] Moreland, S. C., & Bonin, L. (2015, October 13). Patient education: Depression treatment options for children and adolescents (Beyond the Basics). Retrieved January 17, 2017, from https://www.uptodate.com/contents/depression-treatment-options-for-children-and-adolescents-beyond-the-basics
 
-5. NITRC-R: LDDMM (n.d.). Retrieved January 17, 2017, from https://www.nitrc.org/projects/lddmm-volume/
+[5] NITRC-R: LDDMM (n.d.). Retrieved January 17, 2017, from https://www.nitrc.org/projects/lddmm-volume/
