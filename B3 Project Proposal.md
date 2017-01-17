@@ -62,7 +62,11 @@ Total | **64.5**
 
 **Citations** 
 1. N., Niida, A., & Motomura, M. (2011). Diagnosis of depression by MRI scans with the use of VSRAD – a promising auxiliary means of diagnosis: a report of 10 years research. International Journal of General Medicine, 377. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3100220/ 
+
 2. Open Connectome Project. (n.d.). Retrieved January 17, 2017, from http://www.openconnectomeproject.org/
+
 3. Random Forests Leo Breiman and Adele Cutler. (n.d.). Retrieved January 17, 2017, from https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm
+
 4. Moreland, S. C., & Bonin, L. (2015, October 13). Patient education: Depression treatment options for children and adolescents (Beyond the Basics). Retrieved January 17, 2017, from https://www.uptodate.com/contents/depression-treatment-options-for-children-and-adolescents-beyond-the-basics
+
 5. NITRC-R: LDDMM (n.d.). Retrieved January 17, 2017, from https://www.nitrc.org/projects/lddmm-volume/
