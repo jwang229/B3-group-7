@@ -1,5 +1,5 @@
-**Project Proposal**
-Razi Rais, Lucy Wu, Judy Wang 
+# Project Proposal
+*Razi Rais, Lucy Wu, Judy Wang*
 
 Technology is continuing to advance, and with machines that are now capable of imaging the human brain faster and in higher resolution than before, creating a map of the brain is no longer a distant goal. Although there is still a lot to be discovered about depression, extensive research has already been done on adults, whereas scientists are still in the dark about childhood depression. Treatments, both therapy and medication, have been developed for adults, but because so little is known about childhood depression, the only treatments prescribed for children are counseling, and the occasional anti-depressant. It is also harder to understand and diagnose childhood depression; it may be difficult for kids to articulate their feelings, and during the “teenage” years rampant with mood swings, it may be hard to distinguish depression from their everyday emotions. 
 
@@ -17,7 +17,7 @@ This first part of the project will involve collaboration with Johns Hopkins Med
 
 Concurrently with the first part of this study that focuses on the onset and childhood development of depression, the second part compares childhood and adult depression. We will be performing MRI scans on a randomly selected group of 40-50 adult patients, half of which acquired childhood-onset depression and the other half adult-onset depression. The same image analysis will be conducted to compare the structural brain areas affected by depression between children and adults. This will provide insight into both long-term development of depression but also will evaluate potential differences in brain structure between childhood-onset and adult-onset depression. In addition, volumetric segmentation of EM data will be used to better understand the nano-scaled neuronal processes. Because MRI images only show brain structures, electron microscopy is a more effective method to image patients with depression in order to decipher the neural network underlying the development of depression. EM will be conducted on only a few patient brain tissue samples. This second part of the project will involve recruitment of a team of approximately 5-10 research scientists in collaboration with JHMI Department of Neurology and the National Institute on Mental Health. The sheer volume of both MRI and EM data obtained in this second part will also require the data to be uploaded and stored to the cloud. 
 
-*All data will be shared with the Human Connectome Project after the length of this research study to further the efforts of NIH in the field of neuroimaging.* 
+*All data will be shared with the **Human Connectome Project** after the length of this research study to further the efforts of NIH in the field of neuroimaging.* 
 
 
 **Proposed 10-Year Budget** 
@@ -51,3 +51,14 @@ Concurrently with the first part of this study that focuses on the onset and chi
 
 TOTAL COST: 
 20.1 + 2.0 + 6.4 + 35.5 + 0.4 + 0.1 = **64.5 million USD** 
+
+**Citations** 
+Structural formation of depression 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3100220/ 
+Open connectome project
+http://www.openconnectomeproject.org/
+Random Forest
+https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm
+Moreland, S. C., & Bonin, L. (2015, October 13). Patient education: Depression treatment options for children and adolescents (Beyond the Basics). Retrieved January 17, 2017. https://www.uptodate.com/contents/depression-treatment-options-for-children-and-adolescents-beyond-the-basics
+NITRC-R: LDDMM 
+https://www.nitrc.org/projects/lddmm-volume/
