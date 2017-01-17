@@ -60,7 +60,8 @@ Lab Setup | 0.4
 Volunteer Subjects | 0.1 
 Total | **64.5** 
 
-**Citations** 
+
+## Citations 
 
 1. N., Niida, A., & Motomura, M. (2011). Diagnosis of depression by MRI scans with the use of VSRAD – a promising auxiliary means of diagnosis: a report of 10 years research. International Journal of General Medicine, 377. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3100220/ 
 
